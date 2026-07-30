@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dhrubajyoti Biswas - Principal Generative AI and Cloud Architect</title>
+  <desc id="desc">A light blue professional banner with a subtle connected-node motif representing enterprise AI systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.55" stop-color="#edf6fc"/>
+      <stop offset="1" stop-color="#dceefa"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#169b83"/>
+      <stop offset="1" stop-color="#2879b8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <circle cx="1080" cy="70" r="190" fill="#2879b8" opacity="0.08"/>
+  <circle cx="1010" cy="290" r="230" fill="#28bfa6" opacity="0.07"/>
+  <path d="M780 62 C895 115 880 226 1038 270" fill="none" stroke="#2879b8" stroke-width="2" opacity="0.22"/>
+  <path d="M820 294 C900 205 1015 192 1138 88" fill="none" stroke="#169b83" stroke-width="2" opacity="0.22"/>
+  <path d="M870 44 C940 164 1060 146 1160 250" fill="none" stroke="#2879b8" stroke-width="1.5" opacity="0.13"/>
+
+  <g fill="#2879b8">
+    <circle cx="780" cy="62" r="5"/>
+    <circle cx="910" cy="128" r="7"/>
+    <circle cx="1038" cy="270" r="6"/>
+    <circle cx="1138" cy="88" r="5"/>
+  </g>
+  <g fill="#169b83">
+    <circle cx="820" cy="294" r="5"/>
+    <circle cx="960" cy="215" r="8"/>
+    <circle cx="1160" cy="250" r="5"/>
+  </g>
+
+  <rect x="72" y="64" width="58" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="132" fill="#132b3f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1.2">DHRUBAJYOTI BISWAS</text>
+  <text x="72" y="185" fill="#385970" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="2.3">PRINCIPAL GENERATIVE AI &amp; CLOUD ARCHITECT</text>
+  <text x="72" y="226" fill="#147f70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1.6">FORWARD-DEPLOYED AI ENGINEERING</text>
+  <text x="72" y="294" fill="#587285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" letter-spacing="1.1">SYDNEY, AUSTRALIA  /  ENTERPRISE AI  /  ENGINEERING LEADERSHIP</text>
+</svg>
