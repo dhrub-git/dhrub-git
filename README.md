@@ -7,12 +7,14 @@
 <p align="center">
   <a href="https://dhrubdigital.works">Website</a> ·
   <a href="https://www.credly.com/users/dhrubajyoti-biswas">Credentials</a> ·
-  <a href="https://github.com/dhrub-git?tab=repositories">Projects</a>
+  <a href="#selected-systems">Featured work</a>
 </p>
 
-I am an engineering and architecture leader with **18+ years of experience** turning ambiguous enterprise problems into working systems. I combine executive discovery and enterprise architecture with hands-on delivery of agentic AI, RAG, cloud-native platforms, and repeatable adoption playbooks.
+I lead engineering and architecture for enterprise AI, turning ambiguous problems into production-ready systems. Across **18+ years**, I have combined executive discovery, enterprise architecture, and hands-on delivery of agentic AI, RAG, cloud-native platforms, and repeatable adoption playbooks.
 
 My experience spans public sector, SaaS, transportation, financial services, automotive, and technology.
+
+> **Start here:** [explore construct.da](https://construct-da.vercel.app), a live, evidence-backed development-approval screening system for Australian residential projects.
 
 ## Impact at a glance
 
