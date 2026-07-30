@@ -1,10 +1,17 @@
 # Dhrubajyoti Biswas
 
-**Engineering leader building production-minded AI systems for complex enterprise workflows.**
+**Principal Generative AI & Cloud Solutions Architect | Forward-Deployed AI Engineering**
 
-I work at the intersection of applied AI, enterprise architecture, and engineering delivery. My focus is turning ambiguous operational problems into systems that are measurable, reliable, secure, and practical for people to adopt.
+I am an engineering and architecture leader with 18+ years of experience turning ambiguous enterprise problems into working systems. I combine executive discovery and enterprise architecture with hands-on delivery of agentic AI, RAG, cloud-native platforms, and repeatable adoption playbooks.
 
-Based in Sydney, Australia.
+Based in Sydney, Australia, I have worked across public sector, SaaS, transportation, financial services, automotive, and technology.
+
+## Selected impact
+
+- Led a 12-person team delivering an end-to-end agentic RAG service-management platform on OCI
+- Automated more than 95% of Root Cause Analysis report generation and reduced manual support intervention by 40%
+- Helped reduce MTTR by 25% and customer escalations and reopened requests by 30% through AI-assisted triage and knowledge retrieval
+- Established governed AI-native engineering practices spanning multi-agent delivery, evaluation, security, observability, CI/CD, and human approval boundaries
 
 ## Selected work
 
@@ -17,15 +24,15 @@ Based in Sydney, Australia.
 
 ## What I focus on
 
-- **Enterprise AI deployment:** from problem discovery and evaluation to production rollout and adoption
-- **Reliable agentic systems:** grounding, tool use, evals, guardrails, observability, and human review
-- **AI governance and assurance:** turning policies and regulatory requirements into usable engineering controls
-- **Workflow and platform engineering:** durable execution, integrations, failure recovery, and reusable capabilities
-- **Engineering leadership:** creating clarity, raising technical standards, and helping teams deliver through ambiguity
+- **Forward-deployed AI:** customer discovery, workflow mapping, rapid prototyping, technical validation, and production handover
+- **Reliable agentic systems:** RAG, tool use, multi-agent orchestration, evaluation, guardrails, observability, and human review
+- **AI governance and assurance:** converting policies, risk frameworks, and regulatory requirements into practical engineering controls
+- **Cloud and platform architecture:** OCI, AWS, Azure, Kubernetes, serverless, APIs, integrations, and event-driven systems
+- **Engineering leadership:** creating clarity, raising technical standards, and enabling teams to deliver through ambiguity
 
 ## Selected technologies
 
-TypeScript · JavaScript · Python · Java · Next.js · Node.js · PostgreSQL · Prisma · LangGraph · Temporal · OpenAI APIs · Vercel
+Python · TypeScript · JavaScript · Java · Go · SQL · React/Next.js · Spring Boot · LangGraph · LangChain · Temporal · PostgreSQL · Kubernetes · OCI · AWS · Azure
 
 ## How I approach the work
 
@@ -37,4 +44,4 @@ TypeScript · JavaScript · Python · Java · Next.js · Node.js · PostgreSQL �
 
 ---
 
-[Website](https://dhrubdigital.works) · [GitHub](https://github.com/dhrub-git)
+[Website](https://dhrubdigital.works) · [Credentials](https://www.credly.com/users/dhrubajyoti-biswas) · [GitHub](https://github.com/dhrub-git)
