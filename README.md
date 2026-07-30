@@ -16,6 +16,12 @@ My experience spans public sector, SaaS, transportation, financial services, aut
 
 > **Start here:** [explore construct.da](https://construct-da.vercel.app), a live, evidence-backed development-approval screening system for Australian residential projects.
 
+## Current flagship
+
+| [**construct.da →**](https://construct-da.vercel.app) | Evidence-backed development-approval screening for Australian residential projects. |
+| --- | --- |
+| **What it demonstrates** | TypeScript · OCR · spatial data · asynchronous workflows · advisory reporting |
+
 ## Impact at a glance
 
 | Experience | Team leadership | Automation | Operations |
